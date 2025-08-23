@@ -15,5 +15,9 @@
 * [Lindsey Miller](https://oviedocounselingassociates.com/)  (407)-493-5465  does PTSD (not mention of meds)
 * [Denise Kirsop](https://www.facebook.com/DeniseKirsop.LMHC) (407)-948-9262 seems artistic-woo-woo to me
 * 
+---
+# search Functional dyspepsia
+* [Lake Mary GI](https://greaterorlandogi.com/2021/08/31/functional-dyspepsia/)
 
+  
   

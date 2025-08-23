@@ -1,5 +1,5 @@
 # Medical
-* New City Church recommended but PRICEY [David Pruder](psychiatrypsychotherapypllc.com)
+* New City Church recommended but PRICEY [David Pruder](https://psychiatrypsychotherapypllc.com)
 * From Ashlen Moss:
 * [Ethan Moss](https://familylifecounselingcenter.com/licensed-clinicians/#brxe-emtngi) can do meds
     a. direct quick response email - ethanpmhnp@familylifegroup

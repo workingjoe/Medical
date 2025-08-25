@@ -51,3 +51,118 @@
 * Sonata ultra-short half-life, can be taken middle of night
 * Restoril is benzodiazepine high-risk of dependence
 * 
+---
+---
+
+* [TOP](https://www.medicinenet.com/what_are_the_top_5_antidepressants/article.htm)
+
+=================
+## Selective serotonin reuptake inhibitors (SSRIs)
+
+Some of the commonly prescribed SSRIs include:
+
+Citalopram     
+Escitalopram   
+Fluoxetine    
+Fluvoxamine   
+Paroxetine    
+Sertraline   
+
+SSRI side effects:
+Dry mouth
+Nausea
+Headaches
+Nervousness
+Restlessness
+Trouble sleeping
+Sexual problems
+
+=================
+## Serotonin and norepinephrine reuptake inhibitors (SNRIs)
+
+Some of the common SNRIs include:
+
+Duloxetine
+Venlafaxine
+Desvenlafaxine
+
+Common side effects of SNRIs, which appear on many antidepressants lists, include:
+
+Trouble sleeping
+Lack of energy
+Dry mouth
+Constipation
+Weight loss
+Nausea (especially in the first two weeks)
+Loss of appetite
+Anxiety and nervousness
+Headaches
+Sexual problems
+Increased heart rate
+Increased cholesterol levels
+
+=================
+## Atypical antidepressants
+
+Some of the common atypical antidepressants include:
+
+Wellbutrin SR, Wellbutrin XL, others (bupropion)
+Remeron (mirtazapine)
+
+Some of the common side effects of atypical antidepressants include:
+
+Dry mouth
+Dizziness
+Light-headedness
+Nausea
+Fatigue
+Nervousness
+Diarrhea
+Headache
+
+
+=================
+## Serotonin modulators
+
+Some of the commonly used serotonin modulators include:
+
+Nefazodone
+Trazodone
+Vilazodone
+Vortioxetine
+Some of the side effects of serotonin modulators include:
+
+Nausea
+Dry mouth
+Dizziness
+Constipation
+Blurred vision
+Weakness
+Sleepiness
+
+
+=================
+## Cyclic antidepressants
+
+There are two types of cyclic antidepressants depending on their structure: 
+tricyclic and tetracyclic antidepressants. 
+They affect several other chemicals in the brain, thereby increasing the risk of side effects.
+
+Tetracyclic antidepressants
+Maprotiline
+Mirtazapine
+
+Tricyclic antidepressants
+Amitriptyline
+Desipramine
+Doxepin
+
+Common side effects of tetracyclic and tricyclic antidepressants include:
+
+Drowsiness
+Increased appetite
+Weight gain
+Dizziness
+Elevated cholesterol levels
+Dry mouth
+Constipation

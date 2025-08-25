@@ -23,5 +23,31 @@
 # Anti-Depressants
 * [top_5_anti_depressants](https://www.medicinenet.com/what_are_the_top_5_antidepressants/article.htm)
   * includes side-effect profiles for some, and categories for everything
+* [Common_anti-depressants](https://magazine.medlineplus.gov/pdf/Common-antidepressants.PDF_.Final_.09012023.pdf)
+*   
   
+---
+# SLEEP Meds
+* [sleep_medication_list](https://neurolaunch.com/prescribed-sleep-medication-list/)
   
+* Benzodiazepeines (older)
+  * temazepam
+  * triazolam
+* Z-Drugs (newer)
+  * Ambien
+  * Lunesta
+  * Sonata
+* Melatonin agonist
+  * Rozerem
+* Orexin antagonists
+  * Belsomra
+* Anti-depressants offlabel
+  * Silenor (antihistamine)
+  * Trazodone
+
+## Common
+* Zoipidem (Ambien) works in 30-minutes, maybe not all night
+* Lunesta for waking up in middle of night, not long-term solution?
+* Sonata ultra-short half-life, can be taken middle of night
+* Restoril is benzodiazepine high-risk of dependence
+* 

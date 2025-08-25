@@ -19,5 +19,9 @@
 # search Functional dyspepsia
 * [Lake Mary GI](https://greaterorlandogi.com/2021/08/31/functional-dyspepsia/)
 
+---
+# Anti-Depressants
+* [top_5_anti_depressants](https://www.medicinenet.com/what_are_the_top_5_antidepressants/article.htm)
+  * includes side-effect profiles for some, and categories for everything
   
   

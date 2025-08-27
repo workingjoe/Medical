@@ -52,6 +52,20 @@
 * Restoril is benzodiazepine high-risk of dependence
 * 
 ---
+However, in situations where other interventions do not work, doctors may prescribe 
+* benzodiazepine receptor agonists, including prescription-strength 
+* zaleplon (Sonata)
+  * potential side effects, which included mental impairment, anxiety from withdrawal, and sedative effects, among others.
+* zolpidem (Ambien)
+  * risks from long-term use may include cognitive deficits and dementia.
+* eszopiclone (Lunesta).
+  * Adverse effects can include recurrent headaches, dry mouth, and persistent fatigue, among others.
+---
+
+https://www.trysleepover.com/
+* trazodone,   antidepressant seratonin 
+* mirtazapine  antidepressant (not understood mechanism) 4-weeks for symptoms!!
+* hydroxyzine  antihistamine based 
 ---
 
 * [TOP](https://www.medicinenet.com/what_are_the_top_5_antidepressants/article.htm)
@@ -61,14 +75,26 @@
 
 Some of the commonly prescribed SSRIs include:
 
-Citalopram     
-Escitalopram   
-Fluoxetine    
-Fluvoxamine   
-Paroxetine    
-Sertraline   
+* Citalopram     
+* Escitalopram   
+* Fluoxetine    
+* Fluvoxamine   
+* Paroxetine    
+* Sertraline (Zoloft)[https://www.webmd.com/drugs/2/drug-1/sertraline-oral/details#sideeffects]
+    * The most common side effects of sertraline are listed below:
+    * Nausea
+    * Appetite loss
+    * Diarrhea
+    * Indigestion
+    * Increased sweating
+    * Shaking (tremor)
+    * Agitation
+    * Change in sleep habits, including sleepiness or trouble sleeping
+    * Sexual problems, including decreased sex drive or ejaculation failure
+    * Tiredness
+    * Anxiety
 
-SSRI side effects:
+# SSRI side effects:
 Dry mouth
 Nausea
 Headaches
@@ -82,63 +108,63 @@ Sexual problems
 
 Some of the common SNRIs include:
 
-Duloxetine
-Venlafaxine
-Desvenlafaxine
+* Duloxetine
+* Venlafaxine
+* Desvenlafaxine
 
-Common side effects of SNRIs, which appear on many antidepressants lists, include:
+## Common side effects of SNRIs, which appear on many antidepressants lists, include:
 
-Trouble sleeping
-Lack of energy
-Dry mouth
-Constipation
-Weight loss
-Nausea (especially in the first two weeks)
-Loss of appetite
-Anxiety and nervousness
-Headaches
-Sexual problems
-Increased heart rate
-Increased cholesterol levels
+* Trouble sleeping
+* Lack of energy
+* Dry mouth
+* Constipation
+* Weight loss
+* Nausea (especially in the first two weeks)
+* Loss of appetite
+* Anxiety and nervousness
+* Headaches
+* Sexual problems
+* Increased heart rate
+* Increased cholesterol levels
 
 =================
 ## Atypical antidepressants
 
-Some of the common atypical antidepressants include:
+* Some of the common atypical antidepressants include:
 
-Wellbutrin SR, Wellbutrin XL, others (bupropion)
-Remeron (mirtazapine)
+* Wellbutrin SR, Wellbutrin XL, others (bupropion)
+* Remeron (mirtazapine)
+  
+## Some of the common side effects of atypical antidepressants include:
 
-Some of the common side effects of atypical antidepressants include:
-
-Dry mouth
-Dizziness
-Light-headedness
-Nausea
-Fatigue
-Nervousness
-Diarrhea
-Headache
-
+* Dry mouth
+* Dizziness
+* Light-headedness
+* Nausea
+* Fatigue
+* Nervousness
+* Diarrhea
+* Headache
 
 =================
 ## Serotonin modulators
 
-Some of the commonly used serotonin modulators include:
+* Some of the commonly used serotonin modulators include:
 
-Nefazodone
-Trazodone
-Vilazodone
-Vortioxetine
-Some of the side effects of serotonin modulators include:
+* Nefazodone
+* Trazodone
+* Vilazodone
+* Vortioxetine
 
-Nausea
-Dry mouth
-Dizziness
-Constipation
-Blurred vision
-Weakness
-Sleepiness
+## Some of the side effects of serotonin modulators include:
+
+* Nausea
+* Dry mouth
+* Dizziness
+* Constipation
+* Blurred vision
+* Weakness
+* Sleepiness
 
 
 =================
@@ -148,21 +174,21 @@ There are two types of cyclic antidepressants depending on their structure:
 tricyclic and tetracyclic antidepressants. 
 They affect several other chemicals in the brain, thereby increasing the risk of side effects.
 
-Tetracyclic antidepressants
-Maprotiline
-Mirtazapine
+### Tetracyclic antidepressants
+* Maprotiline
+* Mirtazapine
 
-Tricyclic antidepressants
-Amitriptyline
-Desipramine
-Doxepin
+### Tricyclic antidepressants
+* Amitriptyline
+* Desipramine
+* Doxepin
 
-Common side effects of tetracyclic and tricyclic antidepressants include:
+## Common side effects of tetracyclic and tricyclic antidepressants include:
 
-Drowsiness
-Increased appetite
-Weight gain
-Dizziness
-Elevated cholesterol levels
-Dry mouth
-Constipation
+* Drowsiness
+* Increased appetite
+* Weight gain
+* Dizziness
+* Elevated cholesterol levels
+* Dry mouth
+* Constipation
